@@ -11,3 +11,9 @@ addons:
 
   server_wide_modules:
     - web
+
+repo_readme:
+  addons:
+    - pos_debranding
+    - pos_mobile
+    - pos_scan_ref

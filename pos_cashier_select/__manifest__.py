@@ -2,6 +2,7 @@
 # Copyright 2018 Ruslan Ronzhin <https://it-projects.info/team/rusllan/>
 # Copyright 2019 Dinar Gabbasov <https://it-projects.info/team/GabbasovDinar>
 # Copyright 2019 Artem Rafailov <https://it-projects.info/team/Ommo73/>
+# Copyright 2020 Almas Giniatullin <https://it-projects.info/team/almas50>
 # License MIT (https://opensource.org/licenses/MIT).
 {
     "name": """POS Cashier Select""",
@@ -11,7 +12,7 @@
     "version": "13.0.1.0.2",
     "application": False,
     "author": "IT-Projects LLC, Artyom Losev",
-    "support": "pos@it-projects.info",
+    "support": "apps@itpp.dev",
     "website": "https://apps.odoo.com/apps/modules/13.0/pos_cashier_select/",
     "license": "Other OSI approved licence",  # MIT
     "price": 20.00,
@@ -24,5 +25,5 @@
     "pre_init_hook": None,
     "post_init_hook": None,
     "auto_install": False,
-    "installable": False,
+    "installable": True,
 }
