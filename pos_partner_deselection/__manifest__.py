@@ -10,10 +10,8 @@
     "application": False,
     "author": "IT-Projects LLC, Kolushov Alexandr",
     "support": "apps@itpp.dev",
-    "website": "https://it-projects.info/team/KolushovAlexandr",
+    "website": "https://github.com/itpp-labs/pos-addons#readme",
     "license": "Other OSI approved licence",  # MIT
-    "price": 15.00,
-    "currency": "EUR",
     "depends": ["point_of_sale"],
     "external_dependencies": {"python": [], "bin": []},
     "data": ["views/assets.xml", "views/pos_config_view.xml"],
